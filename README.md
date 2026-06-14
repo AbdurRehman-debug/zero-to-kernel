@@ -1,4 +1,4 @@
-# Kernel Engineer Roadmap
+# Kernel Engineer Track
 ### Mohammad Abdurrehman Bhatti — NUTECH SE-2024
 **From Student → x86 Assembly ML Kernels → CUDA GPU Kernels → Kernel Engineer**
 
