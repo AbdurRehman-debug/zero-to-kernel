@@ -62,7 +62,7 @@ The goal is to become one of a globally rare class of engineers who can write op
 
 ## Learning Notes
 
-The `learning-notes/` folder contains a daily markdown file for every day of this journey — what I studied, what confused me, what clicked, what I want to revisit. It is a raw thinking record, not polished content.
+The `daily logs/` folder contains a daily markdown file for every day of this journey — what I studied, what confused me, what clicked, what I want to revisit. It is a raw thinking record, not polished content.
 
 If you want to follow the journey as it happens, that folder is the most honest place to look.
 
