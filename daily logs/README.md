@@ -188,4 +188,4 @@ Try to derive (AB)^-1 = B^-1 * A^-1 from scratch on paper.
 
 
 *Started: 14 June 2026*
-*Current streak: updating daily*
+*Current streak: 1*
