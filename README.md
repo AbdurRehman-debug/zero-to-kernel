@@ -45,25 +45,6 @@ The goal is to become one of a globally rare class of engineers who can write op
 
 ---
 
-## Flagship Projects
-
-These are the proof-of-work projects that define this journey. Each one will have its own detailed README with benchmarks, implementation notes, and profiling results.
-
-### 🔧 MNIST in x86-64 Assembly (Phase 3)
-Architecture: `784 → 256 (ReLU) → 128 (ReLU) → 10 (Softmax)`  
-AVX2 vectorized matrix multiply, trained with mini-batch SGD, callable from Python via ctypes.  
-Target: >95% test accuracy.
-
-### ⚡ CUDA Matrix Multiply Optimization Journey (Phase 4)
-Six progressive versions from naive to Tensor Core accelerated.  
-Target: 60–80% of cuBLAS performance.  
-Profiled with NVIDIA Nsight Compute.
-
-### 🔥 Simplified Flash Attention Kernel (Phase 4)
-Tiled online softmax eliminating O(N²) memory complexity.  
-Integrated as a custom PyTorch operator.
-
----
 
 ## Key Resources
 
