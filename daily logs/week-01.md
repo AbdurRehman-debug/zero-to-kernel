@@ -79,42 +79,80 @@ not confused in the things learnt at first i was in spaces in visulization of ve
 #### i will do problem set 1.1 from professor strangs book and if time allows i will go for professor strangs question/problem solving lectures to solve questions
 ---
 
-## Day 2 — Monday, June 15 2026
+## Day 2 — Monday , June 15 2026
 
-**Phase:** Phase 0 — Math Foundations
-**Topic:** 
-**Time Spent:** 
-
----
-
-### 📖 What I Studied
-
+**Phase :** Phase 0 — Math Foundations
+\
+**Topic :** **Introduction to vectors,linear combinations,span,vectors spaces**
+\
+**Time Spent :** 1 hour
 
 ---
 
-### 💡 What I Understood
+## 📖 What I Studied
+### i solved some questions actually 6 problems from problem set 1.1. from professor strangs book 
+ and i learnt somehting interesting about components and spans of vectors 
+---
+
+## 💡 What I Understood
+### QUESTION 1:
+![alt text](image.png)
+i understood that a  single  vector lives on  al ine  2 vectors live on plane since a new dimesnion is added and three vectors live or span in all of 3d space
+
+### Question 2:
+![alt text](image-1.png)
+this was a visulization task just perfomed opermed on the vector and drew the single diagram of the resultant vector
+
+
+### Question 3
+
+![alt text](image-2.png)
+we treat thos evetcors as linear equations aadd both equations both sides to each other
+
+
+### Question 4:
+![alt text](image-3.png)
+this is a simnple linear ombinations task of erfming operations on the vectors
+
+
+### Question 5:
+![alt text](image-4.png)
+we know u ,v and w lie in a aplane and nto space since u and v combine to get to w and as w is redunadant and can be rached through combination of u and v and doesnt add anything new or new dimension the 2 vectpors exist in plane and as we have equation that equals the vectors to 0 we get the equation u+w+v=0 then we rearrange to egt w on other side and then solve accordingly
+
+
+### Question 6:
+![alt text](image-5.png)
+this question taught me the most that any vector whose componeets suppose 3 componeets of a 2 vectors  (x,y,z)  add up to 0  means that those 2 vectors  lie on a  plane or formn a plane  in 3d space that passes trough the origin  and if the compoenents added to 0 have some other result they lie ona different plane  think of it as a different fllor that isnt reachable by the other floor
+
+
+
+
+
 
 
 ---
 
-### 🔨 What I Built or Practiced
+### 🔨 What I Built or Practiced:
+didnt practice questions yet and no numpy verifications for today
+as final exams have started 
 
 
 ---
 
-### 📊 Result or Measurement
+### 📊 Result or Measurement:
+not yet
 
 
 ---
 
 ### ❓ Still Confused
+a little bit in visulzation of vectors with componenets but that will clear up after i solve   more questions
 
 
 ---
 
 ### 📅 Tomorrow
-
-
+#### i will do problem set 1.1 onwards from question 6 and i will do them as many as time allows
 ---
 
 ## Day 3 — Tuesday, June 16 2026
