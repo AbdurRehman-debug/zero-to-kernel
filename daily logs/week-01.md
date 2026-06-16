@@ -155,42 +155,54 @@ a little bit in visulzation of vectors with componenets but that will clear up a
 #### i will do problem set 1.1 onwards from question 6 and i will do them as many as time allows
 ---
 
+
 ## Day 3 — Tuesday, June 16 2026
 
-**Phase:** Phase 0 — Math Foundations
-**Topic:** 
-**Time Spent:** 
+**Phase :** Phase 0 — Math Foundations
+\
+**Topic :** **Linear combination,span,vector spaces**
+\
+**Time Spent :** 1 hour
 
 ---
 
-### 📖 What I Studied
-
-
----
-
-### 💡 What I Understood
-
-
----
-
-### 🔨 What I Built or Practiced
+## 📖 What I Studied
+solved problem set1.1 questions 6 onwards till question 12 
+they were very basic and repeated the same old cocnepts from previous 2 days
 
 
 ---
 
-### 📊 Result or Measurement
+## 💡 What I Understood
+undrstood basic thinking about the questions that force tot hink about linear combinations and visulization or mappping of vectors to figures / grpahs and understood visulization
+
+
+
+
+
+
+---
+
+### 🔨 What I Built or Practiced:
+didnt practice questions yet and no numpy verifications for today
+
+
+---
+
+### 📊 Result or Measurement:
+not yet
 
 
 ---
 
 ### ❓ Still Confused
+not confused for now but lets see
 
 
 ---
 
 ### 📅 Tomorrow
-
-
+#### solve onwards from problem 12
 ---
 
 ## Day 4 — Wednesday, June 17 2026
